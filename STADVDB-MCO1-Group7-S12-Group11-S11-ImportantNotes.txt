@@ -1,0 +1,36 @@
+Good day, Sir Kerwin!
+
+Here are the important things that you will need in case you want to access the following:
+
+
+1. For our data warehouse, it is stored online. Here are the credentials:
+
+- Host: stadvdb-mco1.c1ywa8q8wvxv.ap-southeast-1.rds.amazonaws.com
+- Port: 3306
+- User: admin
+- Password: 8YVfnfrFD82hjuL
+- Database: mydb
+
+
+2. For our ETL (Apache Nifi), it is also stored online. Here are the important details:
+
+- Link: https://stadvdb-nifi.thekovie.com/
+- Username: admin
+- Password: admin_password
+
+Notes: Before you can enter our website, you will be prompted to provide your DLSU email address to access our website. The website can only be access by you and us members.
+
+
+3. For our OLAP application, it is hosted online by Tableau Public.
+- Link: https://public.tableau.com/app/profile/kovie.nino/viz/HealthcareProfessionalDistributionandAppointmentAnalysisinthePhilippines-STADVDBGroup11S11Group7S12/Dashboard1?publish=yes
+
+If you have any questions or concerns, please do reach us in our following Discord tags / email address:
+- .melonator / johndayll_arizala@dlsu.edu.ph
+- iujjang / john_kovie_nino@dlsu.edu.ph
+- _zmatt / zach_noche@dlsu.edu.ph
+- orbles / donnald_robles@dlsu.edu.ph
+
+Thank you.
+
+Kind regards,
+Group 7 (S12) and 11 (S11) Team
